@@ -1,0 +1,37 @@
+
+
+p {
+    color: blue;
+    font-size: 24px;
+}
+
+.item {
+    color: pink;
+    font-weight: bold;
+}
+
+#apellido {
+    color: blue;
+
+}
+
+img {
+    width: 1000px ;
+    height: 400px;
+}
+#imagen1 {
+    width: 400px;
+    border: 10px solid rgb(0, 255, 38);
+    border-radius: 5%;
+}
+div {
+    height: 200px;
+    background-color: blue;
+}
+
+#container1 {
+    width: 600px;
+    height: 100px;
+    border: 2px solid rgb(0, 255, 38);
+    background-color: black;
+}
