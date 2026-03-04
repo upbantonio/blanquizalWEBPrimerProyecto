@@ -5,15 +5,35 @@ p {
     font-size: 24px;
 }
 
+li {
+    color: red;
+}
+
+
 .item {
-    color: pink;
+    color: blue;
     font-weight: bold;
 }
 
 #apellido {
-    color: blue;
+    color: pink;
+    font-size: 24px;
 
-}
+} 
+
+#apellido2 {
+    color: green;
+    font-size: 32px;
+    font-family: sans-serif;
+    text-align: right;
+
+} 
+#apellido3 {
+    color: pink;
+    font-size: 24px;
+    text-align: center;
+
+} 
 
 img {
     width: 1000px ;
@@ -24,16 +44,28 @@ img {
     border: 10px solid rgb(0, 255, 38);
     border-radius: 5%;
 }
-div {
-    height: 200px;
-    background-color: blue;
-    border: 2px solid red;
-    color: white;
-}
+
 
 #container1 {
     width: 600px;
     height: 100px;
     border: 2px solid rgb(0, 255, 38);
     background-color: black;
+}
+
+div {
+    height: 200px;
+    background-color: blue;
+    border: 2px solid red;
+    color: white;
+    display: inline;
+}
+
+.caja1 {
+    width: 200px;
+    height: 100px;
+    border: 2px solid rgb(0, 255, 38);
+    background-color: black;
+    display: inline-block;
+    /* display: none; */
 }
